@@ -1,0 +1,7 @@
+<Module>
+  <Id>OneHourGameJam256.Core</Id>
+  <Name>Core</Name>
+  <Author>Benjamin Bergseth and Mathias Hareide</Author>
+  <Description>The base game. You pretty much need this one.</Description>
+  <Version>NaN</Version>
+</Module>
